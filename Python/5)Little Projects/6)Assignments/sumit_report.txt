@@ -1,0 +1,12 @@
+===== Student Report =====
+Name: sumit
+
+Subjects and Marks:
+math: 55.0
+ai: 99.0
+ml: 90.0
+science: 55.0
+
+Total: 299.0
+Average: 74.75
+Grade: C
